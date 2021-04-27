@@ -48,9 +48,9 @@
 
 
 ## Contributors
-* [Tanishq Bhalla](https://github.com/Tanishq457)  
 * [Utkrisht Agrawal](https://github.com/gutku10)  
 * [Abhinav Goyal](https://github.com/zabhitak)  
+* [Abhinav Goyal](https://github.com/sahil-mor)  
 
 
 
