@@ -23,9 +23,8 @@
 
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/zabhitak/Smart_Sunlight/blob/master/Screenshots/home.jpeg"  height="460px;"width="400px;"alt=""/></td>
-    <td align="right"><img src="https://github.com/zabhitak/Smart_Sunlight/blob/master/Screenshots/dash.jpg" height="460px;" width="400px;"alt=""/><br /></td>
-    <td align="center"><img src="https://github.com/zabhitak/Smart_Sunlight/blob/master/Screenshots/inst.jpeg" height="460px;" width="400px;"alt=""/></td>
+    <td align="center"><img src="https://github.com/zabhitak/Smart_Sunlight/blob/master/Screenshots/home.PNG"  height="460px;"width="500px;"alt=""/></td>
+    <td align="right"><img src="https://github.com/zabhitak/Smart_Sunlight/blob/master/Screenshots/dash.PNG" height="460px;" width="500px;"alt=""/><br /></td>
    
     
   </tr>
@@ -36,7 +35,7 @@
    
   <table>
   <tr>
-        <td align="center"><img src="https://github.com/zabhitak/Smart_Sunlight/blob/master/Screenshots/hard.PNG" height="460px;"width="400px;" alt=""/><br /></td>
+        <td align="center"><img src="https://github.com/zabhitak/Smart_Sunlight/blob/master/Screenshots/hard.PNG" height="460px;"width="700px;" alt=""/><br /></td>
   </tr>
 </table>
 
