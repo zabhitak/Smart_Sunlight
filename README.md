@@ -50,7 +50,7 @@
 ## Contributors
 * [Utkrisht Agrawal](https://github.com/gutku10)  
 * [Abhinav Goyal](https://github.com/zabhitak)  
-* [Abhinav Goyal](https://github.com/sahil-mor)  
+* [Sahil Mor](https://github.com/sahil-mor)  
 
 
 
