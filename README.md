@@ -1,6 +1,6 @@
 # Smart Sunlight
 
-FoodBooth is a meal kit box, like zomato or swiggy sells food from restaurants, FoodBooth will sell the items required to make that dish in proper proportion, so that sungle user customer don't need to buy a whole bottle for tble spoon of vinegar and like others.
+Smart Home Monitoring System using custom-built Mobile Application is a handy tool in the appliance and gadget management system of the home. Nowadays, people have started using automation systems in various domains of life, be it form controlling the air-conditioning of your house, filling up the water tanks, everything can be controlled right from the mobile. It gives you access to your devices even when you are not at home, i.e. remote access is provided, imagine you left the lamp on your desk on while leaving the home you don’t have to rush back, all you have to do is a single tap on your mobile phone, you don't have to worry about the locks and all its all secured and you can monitor everything, this can also be really useful at the time of the burglary or some situations like that, the home automation system can be of great use
 
 <br />
 
@@ -62,7 +62,8 @@ FoodBooth can :
 >* 📩- Email Sending On Register & Order Placement.
 >* 🌎- Promotional Emails
 
-
+## Website Link
+* Link to the Website: http://shineflare.herokuapp.com/
 
 ## Images of Sunlight!
 
