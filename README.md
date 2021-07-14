@@ -8,10 +8,6 @@ Smart Home Monitoring System using custom-built Mobile Application is a handy to
  <img src="https://github.com/zabhitak/Smart_Sunlight/blob/master/Screenshots/favicon.png" height="550px;"width="500px;"alt=""/>
 </p>
 
-<p align="center">
-<h1 align="center">xMETADORz</h1>
-</p>
-
 
 
 <!-- GETTING STARTED -->
