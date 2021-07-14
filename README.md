@@ -107,6 +107,6 @@ FoodBooth can :
 ## Contributors
 
 * [Abhinav Goyal](https://github.com/zabhitak)  
-* [Abhinav Goyal](https://github.com/sahil-mor)  
+* [Sahil Mor](https://github.com/sahil-mor)  
 
 
