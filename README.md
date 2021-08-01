@@ -47,7 +47,7 @@ This is an example of how to list things you need to use the software and how to
 
 # Features
 
-FoodBooth can :
+Smart Sunlight can :
 >
 >* 🔐- User Authentication
 >* 👻- Admin Dashboard
